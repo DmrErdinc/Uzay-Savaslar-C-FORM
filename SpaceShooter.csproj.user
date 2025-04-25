@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="src\gui\about\AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\gui\about\CustomLinkLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\CustomButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\CustomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\gui\CustomLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\FormTitleLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\game\GameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\gui\game\grid\CollidableItemGui.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\game\grid\GameGridGui.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\game\grid\GameMessageLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\game\grid\GameOverPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\game\grid\pause\PauseMenuButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\game\grid\spaceship\EnemySpaceshipGui.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\game\grid\spaceship\HeroSpaceshipGui.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\game\grid\spaceship\SpaceshipGui.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\game\grid\spaceship\SpaceshipHealthBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\game\stats\StatsBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\game\stats\StatsLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\highscores\HighscoreLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\highscores\HighscoresForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\gui\highscores\LabelGroup.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\highscores\LabelGroupTitleLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\menu\MenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\gui\menu\MenuOptions.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\OKButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\options\CheckBoxOptionsGroup.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\options\CustomCheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\options\OptionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\gui\options\OptionsGroup.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\options\PictureBoxOptionsGroup.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="src\gui\TextLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

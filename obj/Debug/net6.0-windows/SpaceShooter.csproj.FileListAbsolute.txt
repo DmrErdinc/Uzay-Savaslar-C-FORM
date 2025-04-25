@@ -1,0 +1,86 @@
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\bin\Debug\net6.0-windows\SpaceShooter.exe
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\bin\Debug\net6.0-windows\SpaceShooter.deps.json
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\bin\Debug\net6.0-windows\SpaceShooter.runtimeconfig.json
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\bin\Debug\net6.0-windows\SpaceShooter.dll
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\bin\Debug\net6.0-windows\SpaceShooter.pdb
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.AssemblyReference.cache
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.resources.Resources.resources
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.gui.AboutForm.resources
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.gui.CustomForm.resources
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.gui.GameForm.resources
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.gui.GameGridGui.resources
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.gui.GameOverPanel.resources
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.gui.GamePausedPanel.resources
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.gui.HighscoresForm.resources
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.gui.MenuForm.resources
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.gui.OKButton.resources
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.gui.CheckBoxOptionsGroup.resources
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.gui.CustomCheckBox.resources
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.gui.OptionsForm.resources
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.GenerateResource.cache
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfoInputs.cache
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfo.cs
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.sourcelink.json
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceSho.6D435337.Up2Date
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.dll
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\refint\SpaceShooter.dll
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.pdb
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\SpaceShooter.genruntimeconfig.cache
+C:\Users\Dmr.Erdinc\Source\Repos\space-shooter\obj\Debug\net6.0-windows\ref\SpaceShooter.dll
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\bin\Debug\net6.0-windows\SpaceShooter.exe
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\bin\Debug\net6.0-windows\SpaceShooter.deps.json
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\bin\Debug\net6.0-windows\SpaceShooter.runtimeconfig.json
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\bin\Debug\net6.0-windows\SpaceShooter.dll
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\bin\Debug\net6.0-windows\SpaceShooter.pdb
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.csproj.AssemblyReference.cache
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.resources.Resources.resources
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.gui.AboutForm.resources
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.gui.CustomForm.resources
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.gui.GameForm.resources
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.gui.GameGridGui.resources
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.gui.GameOverPanel.resources
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.gui.GamePausedPanel.resources
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.gui.HighscoresForm.resources
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.gui.MenuForm.resources
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.gui.OKButton.resources
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.gui.CheckBoxOptionsGroup.resources
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.gui.CustomCheckBox.resources
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.gui.OptionsForm.resources
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.csproj.GenerateResource.cache
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfoInputs.cache
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfo.cs
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.sourcelink.json
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceSho.6D435337.Up2Date
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.dll
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\refint\SpaceShooter.dll
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.pdb
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\SpaceShooter.genruntimeconfig.cache
+C:\Users\Dmr.Erdinc\source\repos\Uzay Savaşları\obj\Debug\net6.0-windows\ref\SpaceShooter.dll

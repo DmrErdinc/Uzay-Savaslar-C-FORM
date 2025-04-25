@@ -1,0 +1,435 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\DatabaseManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\DatabaseManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\TimeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\TimeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\utils\\AudioPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\AudioPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\CustomLabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\CustomLabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\CustomForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\CustomForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\CustomButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\CustomButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\menu\\MenuForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\menu\\MenuForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\GameGridGui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\game\\grid\\GameGridGui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\CollidableItemGui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\game\\grid\\CollidableItemGui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\GameGridGui.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\game\\grid\\GameGridGui.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\GameMessageLabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\game\\grid\\GameMessageLabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\GameOverPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\game\\grid\\GameOverPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\GameOverPanel.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\game\\grid\\GameOverPanel.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\pause\\GamePausedPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\game\\grid\\pause\\GamePausedPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\GameForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\game\\GameForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\GameForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\game\\GameForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\GameForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\game\\GameForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\TextLabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\TextLabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\OKButton.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\OKButton.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\OKButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\OKButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\menu\\MenuForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\menu\\MenuForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1951816084:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "src\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\DatabaseManager.cs",
+              "RelativeToolTip": "src\\DatabaseManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:52:32.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\GameManager.cs",
+              "RelativeDocumentMoniker": "src\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\GameManager.cs",
+              "RelativeToolTip": "src\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:52:32.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Program.cs",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\Program.cs",
+              "RelativeToolTip": "src\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:52:30.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimeManager.cs",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\TimeManager.cs",
+              "RelativeDocumentMoniker": "src\\TimeManager.cs",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\TimeManager.cs",
+              "RelativeToolTip": "src\\TimeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:52:29.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\utils\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "src\\utils\\AudioPlayer.cs",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\utils\\AudioPlayer.cs",
+              "RelativeToolTip": "src\\utils\\AudioPlayer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:52:24.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomLabel.cs",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\CustomLabel.cs",
+              "RelativeDocumentMoniker": "src\\gui\\CustomLabel.cs",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\CustomLabel.cs",
+              "RelativeToolTip": "src\\gui\\CustomLabel.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:52:20.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\CustomForm.cs",
+              "RelativeDocumentMoniker": "src\\gui\\CustomForm.cs",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\CustomForm.cs",
+              "RelativeToolTip": "src\\gui\\CustomForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:52:16.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomButton.cs",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\CustomButton.cs",
+              "RelativeDocumentMoniker": "src\\gui\\CustomButton.cs",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\CustomButton.cs",
+              "RelativeToolTip": "src\\gui\\CustomButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:52:14.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameGridGui.resx",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\GameGridGui.resx",
+              "RelativeDocumentMoniker": "src\\gui\\game\\grid\\GameGridGui.resx",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\GameGridGui.resx",
+              "RelativeToolTip": "src\\gui\\game\\grid\\GameGridGui.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-25T19:52:03.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameMessageLabel.cs",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\GameMessageLabel.cs",
+              "RelativeDocumentMoniker": "src\\gui\\game\\grid\\GameMessageLabel.cs",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\GameMessageLabel.cs",
+              "RelativeToolTip": "src\\gui\\game\\grid\\GameMessageLabel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:52:02.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameOverPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\GameOverPanel.cs",
+              "RelativeDocumentMoniker": "src\\gui\\game\\grid\\GameOverPanel.cs",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\GameOverPanel.cs",
+              "RelativeToolTip": "src\\gui\\game\\grid\\GameOverPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:51:59.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameOverPanel.resx",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\GameOverPanel.resx",
+              "RelativeDocumentMoniker": "src\\gui\\game\\grid\\GameOverPanel.resx",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\GameOverPanel.resx",
+              "RelativeToolTip": "src\\gui\\game\\grid\\GameOverPanel.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-25T19:51:58.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameGridGui.cs",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\GameGridGui.cs",
+              "RelativeDocumentMoniker": "src\\gui\\game\\grid\\GameGridGui.cs",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\GameGridGui.cs",
+              "RelativeToolTip": "src\\gui\\game\\grid\\GameGridGui.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:51:50.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CollidableItemGui.cs",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\CollidableItemGui.cs",
+              "RelativeDocumentMoniker": "src\\gui\\game\\grid\\CollidableItemGui.cs",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\CollidableItemGui.cs",
+              "RelativeToolTip": "src\\gui\\game\\grid\\CollidableItemGui.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:51:49.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GamePausedPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\pause\\GamePausedPanel.cs",
+              "RelativeDocumentMoniker": "src\\gui\\game\\grid\\pause\\GamePausedPanel.cs",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\grid\\pause\\GamePausedPanel.cs",
+              "RelativeToolTip": "src\\gui\\game\\grid\\pause\\GamePausedPanel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:51:44.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameForm.resx",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\GameForm.resx",
+              "RelativeDocumentMoniker": "src\\gui\\game\\GameForm.resx",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\GameForm.resx",
+              "RelativeToolTip": "src\\gui\\game\\GameForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-25T19:51:36.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\GameForm.Designer.cs",
+              "RelativeDocumentMoniker": "src\\gui\\game\\GameForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\GameForm.Designer.cs",
+              "RelativeToolTip": "src\\gui\\game\\GameForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:51:34.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\GameForm.cs",
+              "RelativeDocumentMoniker": "src\\gui\\game\\GameForm.cs",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\game\\GameForm.cs",
+              "RelativeToolTip": "src\\gui\\game\\GameForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:51:31.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TextLabel.cs",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\TextLabel.cs",
+              "RelativeDocumentMoniker": "src\\gui\\TextLabel.cs",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\TextLabel.cs",
+              "RelativeToolTip": "src\\gui\\TextLabel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:50:51.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OKButton.resx",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\OKButton.resx",
+              "RelativeDocumentMoniker": "src\\gui\\OKButton.resx",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\OKButton.resx",
+              "RelativeToolTip": "src\\gui\\OKButton.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-25T19:50:49.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OKButton.cs",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\OKButton.cs",
+              "RelativeDocumentMoniker": "src\\gui\\OKButton.cs",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\OKButton.cs",
+              "RelativeToolTip": "src\\gui\\OKButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:50:41.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MenuForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\menu\\MenuForm.Designer.cs",
+              "RelativeDocumentMoniker": "src\\gui\\menu\\MenuForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\menu\\MenuForm.Designer.cs",
+              "RelativeToolTip": "src\\gui\\menu\\MenuForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:50:32.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\menu\\MenuForm.cs",
+              "RelativeDocumentMoniker": "src\\gui\\menu\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\Dmr.Erdinc\\source\\repos\\Uzay Sava\u015Flar\u0131\\src\\gui\\menu\\MenuForm.cs",
+              "RelativeToolTip": "src\\gui\\menu\\MenuForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T22:05:07.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

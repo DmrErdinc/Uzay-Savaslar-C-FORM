@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\gui",
+    "\\src\\gui\\game",
+    "\\src\\gui\\game\\grid",
+    "\\src\\gui\\game\\grid\\pause",
+    "\\src\\gui\\game\\stats",
+    "\\src\\gui\\menu",
+    "\\src\\utils"
+  ],
+  "SelectedNode": "\\SpaceShooter.sln",
+  "PreviewInSolutionExplorer": false
+}
