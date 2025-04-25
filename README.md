@@ -34,16 +34,16 @@ Oyundaki amacınız, düşman uzay gemilerini yok ederek mümkün olduğunca faz
 ## 🖼️ Ekran Görüntüleri
 
 ### Ana Menü
-![Ana Menü](resources/1.PNG)
+![Ana Menü](1.PNG)
 
 ### Oyun Ekranı
-![Oyun](resources/2.PNG)
+![Oyun](2.PNG)
 
 ### Hakkında Sayfası
-![Hakkında](resources/3.PNG)
+![Hakkında](3.PNG)
 
 ### Ayarlar Menüsü
-![Ayarlar](resources/4.PNG)
+![Ayarlar](4.PNG)
 
 ---
 
@@ -90,7 +90,7 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` d
 
 **DmrErdinc**  
 Yazılım geliştirici, uzay hayranı ve oyun tutkunu.  
-[GitHub Profilim](https://github.com/)
+[GitHub Profilim](https://github.com/DmrErdinc)
 
 ---
 
